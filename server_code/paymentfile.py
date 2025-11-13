@@ -8,8 +8,8 @@ import os
 # ------------------------------
 class PayPalClient:
     def __init__(self):
-        self.client_id = os.getenv("PAYPAL_CLIENT_ID")
-        self.client_secret = os.getenv("PAYPAL_CLIENT_SECRET")
+        self.client_id = ("PAYPAL_CLIENT_ID")
+        self.client_secret = ("PAYPAL_CLIENT_SECRET")
 
         environment = SandboxEnvironment(
             client_id=self.client_id,
