@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "53267084175",
+    "project_id": "sharemarket-943f2",
+    "storage_bucket": "sharemarket-943f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53267084175:android:4b165bfa2f87ff233c11fa",
+        "android_client_info": {
+          "package_name": "com.example.marketsutra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53267084175-7n0sb9mvqhi5flipta1tstqa194eqkfj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marketsutra",
+            "certificate_hash": "a083420d451b41171d04955ff1635d733aafbf92"
+          }
+        },
+        {
+          "client_id": "53267084175-gqcj3gpkm2cs0pambc5te3ip9gpocqf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTsgcRidoS-F3A-UCShBiA6L8SIdgnbtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53267084175-gqcj3gpkm2cs0pambc5te3ip9gpocqf8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "53267084175-ocfj2esnsjbarb275dm6pittgg1s82pc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.marketsutra"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53267084175:android:7a32f25c5563953a3c11fa",
+        "android_client_info": {
+          "package_name": "com.example.sharemaret_a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53267084175-gqcj3gpkm2cs0pambc5te3ip9gpocqf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTsgcRidoS-F3A-UCShBiA6L8SIdgnbtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53267084175-gqcj3gpkm2cs0pambc5te3ip9gpocqf8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "53267084175-ocfj2esnsjbarb275dm6pittgg1s82pc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.marketsutra"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
