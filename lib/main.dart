@@ -108,7 +108,7 @@ class _StartState extends State<Start> with TickerProviderStateMixin {
       _currentUser = auth.currentUser;
 
       if (_hasInternet && _currentUser != null) {
-        var url = Uri.parse('http://192.168.29.214:5000/check');
+        var url = Uri.parse('YOUR_IP/check');
         var response = await http.post(
           url,
           headers: {"Content-Type": "application/json"},
